@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BRIEFANTEC/.github/main/profile/assets/briefantec-github-logo.jpg" alt="Briefantec IT Service" width="180">
+  <img src="https://raw.githubusercontent.com/BRIEFANTEC/.github/main/profile/assets/briefantec-github-banner.jpg" alt="Briefantec IT Service" width="100%">
 </p>
 
 # BRIEFANTEC IT SERVICE
